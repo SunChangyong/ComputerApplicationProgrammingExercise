@@ -1,0 +1,13 @@
+﻿  bf_search.c
+E:\dev\ComputerApplicationProgrammingExercise\BloomFilter\bf_search.c(146,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\dev\ComputerApplicationProgrammingExercise\BloomFilter\bf_search.c(182,39): warning C4244: “函数”: 从“unsigned __int64”转换到“int”，可能丢失数据
+E:\dev\ComputerApplicationProgrammingExercise\BloomFilter\bf_search.c(184,31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\dev\ComputerApplicationProgrammingExercise\BloomFilter\bf_search.c(201,39): warning C4244: “函数”: 从“unsigned __int64”转换到“int”，可能丢失数据
+E:\dev\ComputerApplicationProgrammingExercise\BloomFilter\bf_search.c(203,31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\dev\ComputerApplicationProgrammingExercise\BloomFilter\bf_search.c(166,1): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+  正在生成代码
+  1 of 9 functions (11.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  BloomFilter.vcxproj -> E:\dev\ComputerApplicationProgrammingExercise\x64\Release\BloomFilter.exe

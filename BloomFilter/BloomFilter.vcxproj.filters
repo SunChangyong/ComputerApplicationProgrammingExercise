@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="bloomfilter.c">
+    <ClCompile Include="bf_search.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

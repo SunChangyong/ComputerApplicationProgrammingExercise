@@ -1,0 +1,8 @@
+﻿  bloomfilter.c
+E:\dev\ComputerApplicationProgrammingExercise\BloomFilter\bloomfilter.c(146,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\dev\ComputerApplicationProgrammingExercise\BloomFilter\bloomfilter.c(186,13): warning C4013: “strlen”未定义；假设外部返回 int
+E:\dev\ComputerApplicationProgrammingExercise\BloomFilter\bloomfilter.c(190,31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\dev\ComputerApplicationProgrammingExercise\BloomFilter\bloomfilter.c(194,9): warning C4013: “memset”未定义；假设外部返回 int
+E:\dev\ComputerApplicationProgrammingExercise\BloomFilter\bloomfilter.c(209,31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\dev\ComputerApplicationProgrammingExercise\BloomFilter\bloomfilter.c(166,1): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+  BloomFilter.vcxproj -> E:\dev\ComputerApplicationProgrammingExercise\x64\Debug\BloomFilter.exe
