@@ -1,0 +1,5 @@
+﻿  hashtable_search.c
+D:\VS2019\ComputerApplicationProgrammingExercise\HashTable\hashtable_search.c(57,25): warning C4101: “tmp”: 未引用的局部变量
+D:\VS2019\ComputerApplicationProgrammingExercise\HashTable\hashtable_search.c(95,27): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+D:\VS2019\ComputerApplicationProgrammingExercise\HashTable\hashtable_search.c(114,15): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  HashTable.vcxproj -> D:\VS2019\ComputerApplicationProgrammingExercise\Debug\HashTable.exe
