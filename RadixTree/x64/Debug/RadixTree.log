@@ -1,0 +1,10 @@
+﻿  radix_search.c
+C:\Users\a1441\Documents\Tencent Files\3288748898\FileRecv\radix_search.c(46,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\a1441\Documents\Tencent Files\3288748898\FileRecv\radix_search.c(56,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\a1441\Documents\Tencent Files\3288748898\FileRecv\radix_search.c(73,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\a1441\Documents\Tencent Files\3288748898\FileRecv\radix_search.c(75,16): warning C4101: “tmp”: 未引用的局部变量
+C:\Users\a1441\Documents\Tencent Files\3288748898\FileRecv\radix_search.c(97,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\a1441\Documents\Tencent Files\3288748898\FileRecv\radix_search.c(132,23): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\a1441\Documents\Tencent Files\3288748898\FileRecv\radix_search.c(139,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\a1441\Documents\Tencent Files\3288748898\FileRecv\radix_search.c(151,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  RadixTree.vcxproj -> E:\dev\ComputerApplicationProgrammingExercise\x64\Debug\RadixTree.exe
